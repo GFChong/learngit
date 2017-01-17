@@ -1,0 +1,66 @@
+*   [33mcommit c7e1f7775e1eeb3581402000789c7344204e8801[m
+[31m|[m[32m\[m  Merge: fe34941 cd0a3fd
+[31m|[m [32m|[m Author: GFChong <702432355@qq.com>
+[31m|[m [32m|[m Date:   Tue Jan 17 11:15:18 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     readme.txt
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit cd0a3fd8fefaf89ae99e30724bdc8fd930e9eade[m
+[31m|[m [32m|[m Author: GFChong <702432355@qq.com>
+[31m|[m [32m|[m Date:   Tue Jan 17 11:08:58 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     and simple
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit fe34941f1a46425fde3b10872d1254e494eee26e[m
+[32m|[m[32m/[m  Author: GFChong <702432355@qq.com>
+[32m|[m   Date:   Tue Jan 17 11:11:54 2017 +0800
+[32m|[m   
+[32m|[m       readme.txt
+[32m|[m  
+* [33mcommit 273af615cbc0bb5974ac8c09cf6fd5dc78327bd9[m
+[32m|[m Author: GFChong <702432355@qq.com>
+[32m|[m Date:   Tue Jan 17 10:58:22 2017 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m  
+* [33mcommit 7f59aa8c68be9ba2d55143dfcae3838607b00c76[m
+[32m|[m Author: GFChong <702432355@qq.com>
+[32m|[m Date:   Mon Jan 16 16:21:28 2017 +0800
+[32m|[m 
+[32m|[m     remove test.txt
+[32m|[m  
+* [33mcommit 257b2066beb10d05f81143c3aa4214322dbaff2c[m
+[32m|[m Author: GFChong <702432355@qq.com>
+[32m|[m Date:   Mon Jan 16 16:16:59 2017 +0800
+[32m|[m 
+[32m|[m     add test.txt
+[32m|[m  
+* [33mcommit ce52c54abc42f6d2ce2063b9c40729f06f925157[m
+[32m|[m Author: GFChong <702432355@qq.com>
+[32m|[m Date:   Mon Jan 16 10:44:40 2017 +0800
+[32m|[m 
+[32m|[m     git tracks changes
+[32m|[m  
+* [33mcommit fbf78c42a9d4c1b393f2cfd57dce5593c70975a0[m
+[32m|[m Author: GFChong <702432355@qq.com>
+[32m|[m Date:   Thu Jan 12 21:47:43 2017 +0800
+[32m|[m 
+[32m|[m     understand how stage works
+[32m|[m  
+* [33mcommit 7ff3c52f7e3f8830c971b0425f866a1b1c42fd95[m
+[32m|[m Author: GFChong <702432355@qq.com>
+[32m|[m Date:   Thu Jan 12 21:17:09 2017 +0800
+[32m|[m 
+[32m|[m     append GPL
+[32m|[m  
+* [33mcommit dc7ee10721a9bdb793b3d85162d9c7504858673e[m
+[32m|[m Author: GFChong <702432355@qq.com>
+[32m|[m Date:   Thu Jan 12 21:12:45 2017 +0800
+[32m|[m 
+[32m|[m     add distributed
+[32m|[m  
+* [33mcommit 1c60b29791d340cf2cdda02596d7701e9d6e7dac[m
+  Author: GFChong <702432355@qq.com>
+  Date:   Thu Jan 12 20:57:49 2017 +0800
+  
+      worte a readme file
